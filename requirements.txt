@@ -1,0 +1,8 @@
+# No external dependencies required
+# Built-in libraries only:
+# - os
+# - sys
+# - datetime
+# - pathlib
+# - typing
+# - json
